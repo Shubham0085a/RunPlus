@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RunPlus/static/css/main.044c3ee5.css",
-    "main.js": "/RunPlus/static/js/main.0c493f1c.js",
-    "static/js/453.05e7a524.chunk.js": "/RunPlus/static/js/453.05e7a524.chunk.js",
-    "index.html": "/RunPlus/index.html",
-    "main.044c3ee5.css.map": "/RunPlus/static/css/main.044c3ee5.css.map",
-    "main.0c493f1c.js.map": "/RunPlus/static/js/main.0c493f1c.js.map",
-    "453.05e7a524.chunk.js.map": "/RunPlus/static/js/453.05e7a524.chunk.js.map"
+    "main.css": "/static/css/main.044c3ee5.css",
+    "main.js": "/static/js/main.926192a1.js",
+    "static/js/453.05e7a524.chunk.js": "/static/js/453.05e7a524.chunk.js",
+    "index.html": "/index.html",
+    "main.044c3ee5.css.map": "/static/css/main.044c3ee5.css.map",
+    "main.926192a1.js.map": "/static/js/main.926192a1.js.map",
+    "453.05e7a524.chunk.js.map": "/static/js/453.05e7a524.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.044c3ee5.css",
-    "static/js/main.0c493f1c.js"
+    "static/js/main.926192a1.js"
   ]
 }
