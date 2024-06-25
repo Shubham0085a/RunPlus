@@ -1,15 +1,31 @@
 {
   "files": {
-    "main.css": "/RunPlus/static/css/main.044c3ee5.css",
-    "main.js": "/RunPlus/static/js/main.8883cc6d.js",
+    "main.css": "/RunPlus/static/css/main.93301570.css",
+    "main.js": "/RunPlus/static/js/main.426ed67e.js",
     "static/js/453.05e7a524.chunk.js": "/RunPlus/static/js/453.05e7a524.chunk.js",
+    "static/media/Raghunath.png": "/RunPlus/static/media/Raghunath.cbcbda6e9cb5d8236d4b.png",
+    "static/media/dashboard.png": "/RunPlus/static/media/dashboard.1ce2fb310c8b83c6b3fd.png",
+    "static/media/Manjunath.png": "/RunPlus/static/media/Manjunath.5be321bd45de846db2f0.png",
+    "static/media/blog2.png": "/RunPlus/static/media/blog2.808613de0cdb03b69da7.png",
+    "static/media/Prashanthi.png": "/RunPlus/static/media/Prashanthi.e1183025aaacf9919c4f.png",
+    "static/media/blog1.png": "/RunPlus/static/media/blog1.4be4235f0563318eabe5.png",
+    "static/media/blog3.png": "/RunPlus/static/media/blog3.a69691e61ff0d116f9f0.png",
+    "static/media/about_hero.png": "/RunPlus/static/media/about_hero.fc9a1f38c7eaaff1fc48.png",
+    "static/media/Herologo.png": "/RunPlus/static/media/Herologo.c279c1957e6e3d8fffcb.png",
+    "static/media/mission1.png": "/RunPlus/static/media/mission1.bd11ad8ceaaed50a11b5.png",
+    "static/media/mission2.png": "/RunPlus/static/media/mission2.96434ce81dc6011c41dd.png",
+    "static/media/about_img.png": "/RunPlus/static/media/about_img.0948f46cd33e8cc3cfc0.png",
+    "static/media/TestimonialImg.png": "/RunPlus/static/media/TestimonialImg.dc1dd0940859bdd00367.png",
+    "static/media/RunPlus - Logo.png": "/RunPlus/static/media/RunPlus - Logo.7c2c1d6a9044b50cf3ee.png",
+    "static/media/creative.png": "/RunPlus/static/media/creative.17afa39547681007e0a3.png",
+    "static/media/shopify.png": "/RunPlus/static/media/shopify.6d79d5d06c717bfb08a9.png",
     "index.html": "/RunPlus/index.html",
-    "main.044c3ee5.css.map": "/RunPlus/static/css/main.044c3ee5.css.map",
-    "main.8883cc6d.js.map": "/RunPlus/static/js/main.8883cc6d.js.map",
+    "main.93301570.css.map": "/RunPlus/static/css/main.93301570.css.map",
+    "main.426ed67e.js.map": "/RunPlus/static/js/main.426ed67e.js.map",
     "453.05e7a524.chunk.js.map": "/RunPlus/static/js/453.05e7a524.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.044c3ee5.css",
-    "static/js/main.8883cc6d.js"
+    "static/css/main.93301570.css",
+    "static/js/main.426ed67e.js"
   ]
 }
