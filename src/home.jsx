@@ -187,9 +187,9 @@ const Home = () => {
       <section id="hero">
         <div className="flex flex-col items-center justify-center gap-10 h-auto xl:gap-0 xl:flex-row font-montserrat sm:mx-10 mt-10">
           <div className=" relative lg:ml-[7.63rem] w-[90%] sm:w-4/5 xl:w-[55%] sm:ml-10">
-            <div className=" absolute top-10 left-4 sm:top-40 sm:left-14 w-36 h-36 sm:w-40 sm:h-40 md:w-48 md:h-48 lg:w-60 lg:h-60 xl:w-72 xl:h-72 blur-2xl  bg-purple-300 rounded-full mix-blend-multiply filter opacity-60 animate-blob"></div>
-            <div className=" absolute top-28 right-20 sm:top-28 sm:right-72 w-36 h-36 sm:w-40 sm:h-40 md:w-48 md:h-48 lg:w-60 lg:h-60 xl:w-72 xl:h-72 blur-2xl  bg-yellow-300 rounded-full mix-blend-multiply filter opacity-60 animate-blob animation-delay-2000"></div>
-            <div className=" absolute bottom-56 left-16 sm:bottom-32 sm:left-56 w-36 h-36 sm:w-40 sm:h-40 md:w-48 md:h-48 lg:w-60 lg:h-60 xl:w-72 xl:h-72 blur-2xl  bg-pink-300 rounded-full mix-blend-multiply filter opacity-60 animate-blob animation-delay-4000"></div>
+            <div className=" absolute top-10 left-4 sm:top-40 sm:left-14 w-36 h-36 sm:w-40 sm:h-40 md:w-48 md:h-48 lg:w-60 lg:h-60 xl:w-72 xl:h-72 blur-2xl  bg-[#0094FF] rounded-full mix-blend-multiply filter opacity-50 animate-blob"></div>
+            <div className=" absolute top-28 right-20 sm:top-28 sm:right-72 w-36 h-36 sm:w-40 sm:h-40 md:w-48 md:h-48 lg:w-60 lg:h-60 xl:w-72 xl:h-72 blur-2xl  bg-[#25CBFF] rounded-full mix-blend-multiply filter opacity-50 animate-blob animation-delay-2000"></div>
+            <div className=" absolute bottom-56 left-16 sm:bottom-32 sm:left-56 w-36 h-36 sm:w-40 sm:h-40 md:w-48 md:h-48 lg:w-60 lg:h-60 xl:w-72 xl:h-72 blur-2xl  bg-[#20FFCA] rounded-full mix-blend-multiply filter opacity-50 animate-blob animation-delay-4000"></div>
             <div className=" relative flex flex-col gap-6 sm:gap-[3.13rem] scrollanimation animate-appear">
               <div>
                 <h1 className=" font-semibold md:font-bold text-2xl sm:text-4xl md:text-7xl text-[#002548] leading-tight">
@@ -215,6 +215,7 @@ const Home = () => {
                 direction="left"
                 autoFill={true}
                 gradient={true}
+                gradientWidth={80}
                 className="relative mt-12"
               >
                 <div className=" mr-5 sm:mr-14 w-20 sm:w-28 ">

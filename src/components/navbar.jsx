@@ -77,12 +77,12 @@ const Navbar = () => {
           aria-label="Global"
         >
           <div className="flex lg:flex-1">
-            <Link href="/" className="-m-1.5 p-1.5">
+            <Link to="/" className="-m-1.5 p-1.5">
               <span className="sr-only">RunPlus</span>
               <img className="h-7 sm:h-10 w-auto" src={logo} alt="" />
             </Link>
           </div>
-          <div className="flex lg:hidden">
+          <div className="flex lg:hidden absolute right-5">
             <button
               type="button"
               className="-m-2.5 inline-flex items-end justify-center rounded-md p-2.5 text-gray-700"
@@ -172,7 +172,7 @@ const Navbar = () => {
           <div className="fixed inset-0 z-10" />
           <DialogPanel className="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
             <div className="flex items-center justify-between">
-              <Link href="#" className="-m-1.5 p-1.5">
+              <Link to="#" className="-m-1.5 p-1.5">
                 <span className="sr-only">Your Company</span>
                 <img className="h-8 w-auto" src={logo} alt="" />
               </Link>
