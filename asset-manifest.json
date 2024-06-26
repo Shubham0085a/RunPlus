@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RunPlus/static/css/main.ef3f5a87.css",
-    "main.js": "/RunPlus/static/js/main.5451369b.js",
+    "main.css": "/RunPlus/static/css/main.abb338b3.css",
+    "main.js": "/RunPlus/static/js/main.c44ce005.js",
     "static/js/453.05e7a524.chunk.js": "/RunPlus/static/js/453.05e7a524.chunk.js",
     "static/media/Raghunath.png": "/RunPlus/static/media/Raghunath.cbcbda6e9cb5d8236d4b.png",
     "static/media/dashboard.png": "/RunPlus/static/media/dashboard.1ce2fb310c8b83c6b3fd.png",
@@ -20,12 +20,12 @@
     "static/media/creative.png": "/RunPlus/static/media/creative.17afa39547681007e0a3.png",
     "static/media/shopify.png": "/RunPlus/static/media/shopify.6d79d5d06c717bfb08a9.png",
     "index.html": "/RunPlus/index.html",
-    "main.ef3f5a87.css.map": "/RunPlus/static/css/main.ef3f5a87.css.map",
-    "main.5451369b.js.map": "/RunPlus/static/js/main.5451369b.js.map",
+    "main.abb338b3.css.map": "/RunPlus/static/css/main.abb338b3.css.map",
+    "main.c44ce005.js.map": "/RunPlus/static/js/main.c44ce005.js.map",
     "453.05e7a524.chunk.js.map": "/RunPlus/static/js/453.05e7a524.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef3f5a87.css",
-    "static/js/main.5451369b.js"
+    "static/css/main.abb338b3.css",
+    "static/js/main.c44ce005.js"
   ]
 }
