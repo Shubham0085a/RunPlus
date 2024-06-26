@@ -71,9 +71,9 @@ const Navbar = () => {
 
   return (
     <section id="navbar" className="">
-      <header className="bg-white font-montserrat w-full">
+      <header className="bg-white font-montserrat w-full fixed z-10">
         <nav
-          className="mx-auto flex max-w-full items-center justify-between gap-12 py-6 px-3 sm:p-6 lg:px-20"
+          className="mx-auto flex max-w-full items-center justify-between gap-12 py-5 px-3 sm:p-6 lg:px-20"
           aria-label="Global"
         >
           <div className="flex lg:flex-1">
@@ -129,7 +129,7 @@ const Navbar = () => {
                   About Us
                 </Link>
               </Tab>
-              <Cursor position={position} />
+              <Cursor position={position}/>
             </PopoverGroup>
             <div className="hidden lg:flex lg:flex-1 gap-5 lg:justify-end">
               {/* <motion.div
@@ -169,10 +169,10 @@ const Navbar = () => {
           open={mobileMenuOpen}
           onClose={toggleMobileMenu}
         >
-          <div className="fixed inset-0 z-10" />
-          <DialogPanel className="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
+          <div className="fixed inset-0" />
+          <DialogPanel className="fixed inset-y-0 right-0 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10 z-20">
             <div className="flex items-center justify-between">
-              <Link to="#" className="-m-1.5 p-1.5">
+              <Link to="/" className="-m-1.5 p-1.5"  onClick={toggleMobileMenu}>
                 <span className="sr-only">Your Company</span>
                 <img className="h-8 w-auto" src={logo} alt="" />
               </Link>

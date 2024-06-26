@@ -183,7 +183,7 @@ const Home = () => {
 
   return (
     <Curve>
-    <main className=" cursor-default">
+    <main className="cursor-default mt-24">
       <section id="hero">
         <div className="flex flex-col items-center justify-center gap-10 h-auto xl:gap-0 xl:flex-row font-montserrat sm:mx-10 mt-10">
           <div className=" relative lg:ml-[7.63rem] w-[90%] sm:w-4/5 xl:w-[55%] sm:ml-10">

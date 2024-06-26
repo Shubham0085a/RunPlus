@@ -74,7 +74,7 @@ const About = () => {
   ];
   return (
     <Curve>
-    <main>
+    <main className="mt-24">
       <section id="hero_about">
         <div className="mx-5 sm:mx-20 my-5">
           <div className="bg-cover bg-center bg-[url('https://i.ibb.co/C5hVCqf/background3.png')] flex items-center justify-center font-montserrat rounded-2xl text-[#FFFFFF] scrollanimation animate-appear">
